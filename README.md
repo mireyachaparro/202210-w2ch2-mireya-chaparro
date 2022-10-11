@@ -18,10 +18,12 @@ true false false
 false false true
 "Water" "oil" false
 
-repo
-hook hushky
-eslint airbnb
-prettier
-proteger main añadir husky
+-repo
+-hook hushky
+-eslint airbnb
+-prettier
+-proteger main
+-añadir pre-commit y pre-push
+-javascript
 sonarcloud
 mergear
