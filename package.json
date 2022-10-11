@@ -1,0 +1,27 @@
+{
+  "name": "202210-w2ch2-mireya-chaparro",
+  "version": "1.0.0",
+  "description": "Escribe en un módulo propio, una función llamada strictEquals(a, b) que devuelva el mismo valor que a === b. Tu implementación no puede usar los operadores === ni !==.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mireyachaparro/202210-w2ch2-mireya-chaparro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "bugs": {
+    "url": "https://github.com/mireyachaparro/202210-w2ch2-mireya-chaparro/issues"
+  },
+  "homepage": "https://github.com/mireyachaparro/202210-w2ch2-mireya-chaparro#readme",
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
